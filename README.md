@@ -4,12 +4,13 @@ This folders contain some projects I have worked on. They are mostly JavaScript 
 
 # Technologies Used
 
-In these project folder I main use :
+In this project folder I mainly use:
 
 * Vanilla JavaScript
 * jQuery 
 * Node.js
 * Express Framework
+* HTML5 / CSS3
 
 ## Authors
 
