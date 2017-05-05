@@ -35,11 +35,11 @@ In this project folder I mainly use:
 
 * search.ejs file -> Enter a movie query search read API's instructions to see varying ways to search item.
 
-![alt text](tomaslrcode.github.io/images/imdb1.png)
+![Search](https://tomaslrcode.github.io/images/imdb1.png)
 
 * result.ejs file -> will print a list of search result for give query.
 
-![alt text](tomaslrcode.github.io/images/imdb2.png)
+![Results](https://tomaslrcode.github.io/images/imdb2.png)
 
 
 # Key Files
