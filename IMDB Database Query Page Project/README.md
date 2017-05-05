@@ -5,8 +5,8 @@ page you can add it to a site to effectevily search for any move in IMDB's datab
 
 # Breakdown of Project
 
-I made this app using the Express Framework, Node.js, built ejs template so that you can add the
-code to your site. There was no style page added a ejs template can be made to their your liking.
+I made this app using the Express Framework, Node.js, made some ejs templates so that it can be added 
+to any site. There was no style page added a ejs template can be made to their your liking.
 
 # Things You Will Need To install
 
