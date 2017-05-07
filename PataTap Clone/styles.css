@@ -1,0 +1,28 @@
+canvas {
+	width: 100%;
+	height: 100%;
+	background: black;
+}
+
+* { 
+	margin:0; 
+	padding:0; 
+} /* to remove the top and left whitespace */
+
+html, body 
+{ 
+	width:100%; 
+	height:100%; 
+} /* just to be sure these are full screen*/
+
+#instructions {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+#fill {
+  box-shadow: .125em 0 0 0 rgba(128,128,128,.3);
+  color: MediumAquamarine;
+  padding-right: .125em;
+}
